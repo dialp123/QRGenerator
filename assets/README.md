@@ -1,0 +1,1 @@
+Directorio para recursos estáticos (imágenes, fuentes, etc.)
